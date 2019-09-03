@@ -22,7 +22,7 @@
       <input type="text" class="form-control" id="name" placeholder="가게 이름을 입력" name="name">
     </div>
       <div class="form-group">
-      <label for="manu">메뉴:</label>
+      <label for="menu">메뉴:</label>
       <input type="text" class="form-control" id="menu" placeholder="메뉴를 입력" name="menu">
     </div>
        <div class="form-group">
